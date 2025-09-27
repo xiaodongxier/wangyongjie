@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0b8eb4"],{3177:function(n,e,t){"use strict";t.r(e);var a=function(){var n=this,e=n._self._c;return e("div",[n._v(" 欢迎。。。 ")])},i=[],r={name:"LiMeng",data(){return{description:"专属介绍页面"}}},u=r,c=t("2877"),s=Object(c["a"])(u,a,i,!1,null,"7faf1232",null);e["default"]=s.exports}}]);
+//# sourceMappingURL=chunk-2d0b8eb4.b5b1108d.js.map
